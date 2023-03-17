@@ -1,0 +1,3 @@
+# ignore all .a files
+tree_wine.dot
+tree_wine.png
